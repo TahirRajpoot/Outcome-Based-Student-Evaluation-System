@@ -1,0 +1,40 @@
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.exe.config
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.exe
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.pdb
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.AssemblyReference.cache
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.SuggestedBindingRedirects.cache
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Properties.Resources.resources
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.GenerateResource.cache
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.CoreCompileInputs.cache
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.exe
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.pdb
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageStudents.resources
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Home.resources
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageCLOs.resources
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageRubrics.resources
+E:\4th Semester\Database\DB Lab\Mid Term Project\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageRubricLevel.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.exe.config
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.exe
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\Mid Term Project.pdb
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.AssemblyReference.cache
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.SuggestedBindingRedirects.cache
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Home.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageAssesment.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageCLOs.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageRubricLevel.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageRubrics.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Properties.Resources.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageStudents.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.GenerateResource.cache
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.CoreCompileInputs.cache
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.exe
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.pdb
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageAssessmentComponent.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageEvaluation.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\BouncyCastle.Crypto.dll
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\itextsharp.dll
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\bin\Debug\itextsharp.xml
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid Term Project.csproj.CopyComplete
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Reports.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.manageReports.resources
+E:\4th Semester\Database\DB Lab\GitLab Repository\Mid Term Project\Mid Term Project\obj\Debug\Mid_Term_Project.Attendence.resources
